@@ -1,8 +1,0 @@
-module BorisMaherskaya
-typeinfo appBorisMaherskaya.qmltypes
-prefer :/qt/qml/BorisMaherskaya/
-Main 1.0 Main.qml
-Login 1.0 Login.qml
-Guest 1.0 Guest.qml
-depends QtQuick
-
